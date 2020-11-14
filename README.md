@@ -42,5 +42,5 @@ Learners will build test plans, test suites, and test analysis reports. Learners
 - Whalen
 
 
-University of Minnesota
+### University of Minnesota
 The University of Minnesota is among the largest public research universities in the country, offering undergraduate, graduate, and professional students a multitude of opportunities for study and research. Located at the heart of one of the nation’s most vibrant, diverse metropolitan communities, students on the campuses in Minneapolis and St. Paul benefit from extensive partnerships with world-renowned health centers, international corporations, government agencies, and arts, nonprofit, and public service organizations.
