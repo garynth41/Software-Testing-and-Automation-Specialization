@@ -7,7 +7,7 @@ Develop Skills in Software Testing. Practice and master theory, techniques, and 
 * Measure the fault-finding effectiveness of a functional test suite using mutation testing.
 * Defend program correctness through the use of formal methods, specifically proof obligations and model checking.
 
-SKILLS GAINED
+## SKILLS GAINED
 - Black-box Testing Techniques
 - White-box Testing Techniques
 - Unit Testing
